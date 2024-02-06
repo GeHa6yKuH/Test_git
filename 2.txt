@@ -1,0 +1,4 @@
+     UID     PID    PPID  TTY        STIME COMMAND
+Богд     103     102 pty0     12:00:02 /usr/bin/bash
+Богд     237     103 pty0     12:52:59 /usr/bin/ps
+Богд     102       1 ?        12:00:02 /usr/bin/mintty
